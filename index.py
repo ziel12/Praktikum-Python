@@ -89,6 +89,6 @@ if st.button('Hitung'):
     st.markdown(f' <h2 style="color:green; text-align:center; ">Hasil: {hasil}</h2>', 
                 unsafe_allow_html=True)
 
-st.markdown("<p style='text-align: right; color: gray;'>by: Axton Jaaziel Ola (24.83.1061)</p>", unsafe_allow_html=True)
+st.markdown("_<p style='text-align: right; color: gray; font-family: times-new-roman; font-size: 8px;'>by: Axton Jaaziel Ola (24.83.1061)</p>_", unsafe_allow_html=True)
     
 
