@@ -88,5 +88,7 @@ if st.button('Hitung'):
     hasil = all_rumus[pilih_hitung]["Fungsi"](*inputs)
     st.markdown(f' <h2 style="color:green; text-align:center; ">Hasil: {hasil}</h2>', 
                 unsafe_allow_html=True)
+
+st.markdown("<p style='text-align: right; color: gray;'>by: Axton Jaaziel Ola (24.83.1061)</p>", unsafe_allow_html=True)
     
 
