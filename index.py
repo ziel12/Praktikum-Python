@@ -57,7 +57,7 @@ hitungKeliling = {
 
 #TAMPILAN
 
-st.markdown("<h1 style='text-align: center; color: lime;'>Aplikasi Hitung Bangun Datar</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: left; color: lime;'>Aplikasi Hitung Bangun Datar</h1>", unsafe_allow_html=True)
 
 opt = st.selectbox(
     label = "Pilih Operasi Perhitungan",
